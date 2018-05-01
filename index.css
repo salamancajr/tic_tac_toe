@@ -1,0 +1,41 @@
+body{
+    font-family: 'Allerta Stencil';
+  }
+  
+  #box{
+    width: 140px;
+    height: 140px;
+    border: 1px solid white;
+    text-align:center;
+  
+    background-color: orange;
+    font-size: 60px;
+  }
+  
+   
+  
+  #select{
+    font-size:30px;
+   
+   text-align:center;
+      margin-top:35px;
+    
+    
+  }
+  
+  button{
+    
+   padding-bottom: 45px;  
+  width:40px;
+    height:40px;
+   
+  }
+  
+  input{
+     
+      
+   
+   width:70px;
+    height:55px;
+    
+  }
